@@ -1,0 +1,21 @@
+type: code
+custom_name: What year is it today?
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import re
+
+
+    # put your regex in the variable template
+    template = ""
+    string = input()
+    # compare the string and the template
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12683
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/12683">JetBrains
+    Academy</a></html>
+  time: Sat, 20 Mar 2021 11:24:19 UTC
+record: -1

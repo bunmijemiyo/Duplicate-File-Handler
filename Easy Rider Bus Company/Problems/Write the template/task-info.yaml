@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import re
+
+    template = ''
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9475
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9475">JetBrains
+    Academy</a></html>
+  time: Sat, 13 Mar 2021 09:59:32 UTC
+record: -1

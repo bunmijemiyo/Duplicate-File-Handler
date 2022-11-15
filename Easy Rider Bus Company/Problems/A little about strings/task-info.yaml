@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: print('It isn`t in the section 'C:\some\name_of_file'')
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12130
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/12130">JetBrains
+    Academy</a></html>
+  time: Tue, 09 Mar 2021 18:00:10 UTC
+record: -1
